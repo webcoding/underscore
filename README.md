@@ -8,6 +8,6 @@
                                                                                   \ \____/
                                                                                    \/___/
 
-Underscore.js (1.5.2) 中文文档 http://www.css88.com/doc/underscore/
+Underscore.js (1.8.2) 中文文档 http://www.css88.com/doc/underscore/
 
 欢迎拍砖，斧正！
